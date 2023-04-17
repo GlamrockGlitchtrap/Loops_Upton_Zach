@@ -1,0 +1,4 @@
+C:\Users\zachary.upton\source\repos\Loops_Upton_Zach\Loops_Upton_Zach\obj\Debug\netcoreapp3.1\Loops_Upton_Zach.csproj.AssemblyReference.cache
+C:\Users\zachary.upton\source\repos\Loops_Upton_Zach\Loops_Upton_Zach\obj\Debug\netcoreapp3.1\Loops_Upton_Zach.AssemblyInfoInputs.cache
+C:\Users\zachary.upton\source\repos\Loops_Upton_Zach\Loops_Upton_Zach\obj\Debug\netcoreapp3.1\Loops_Upton_Zach.AssemblyInfo.cs
+C:\Users\zachary.upton\source\repos\Loops_Upton_Zach\Loops_Upton_Zach\obj\Debug\netcoreapp3.1\Loops_Upton_Zach.csproj.CoreCompileInputs.cache
